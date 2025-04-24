@@ -2,16 +2,16 @@
   
 
 <div align="center">
-<a target="_blank" href="https://github.com/jarbitlira">
+<a target="_blank" href="https://github.com/jarbitlira" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://twitter.com/jarbitlira">
+<a target="_blank" href="https://twitter.com/jarbitlira" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://linkedin.com/in/jarbitlira">
+<a target="_blank" href="https://linkedin.com/in/jarbitlira" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://medium.com/@jarbitlira">
+<a target="_blank" href="https://medium.com/@jarbitlira" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
